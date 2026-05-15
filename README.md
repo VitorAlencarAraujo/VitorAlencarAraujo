@@ -1,9 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vitoralencararaujo/vitoralencararaujo/snake-output/snake.svg" alt="Snake animation" />
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vitor!;Bem-vindo+ao+meu+GitHub!;Estudante+de+Desenvolvimento+de+Sistemas;Java+•+HTML+•+CSS+•+JavaScript)](https://git.io/typing-svg)
 ###
