@@ -21,7 +21,7 @@
   />
 </p>
 
-## Building, learning, and evolving...
+## ☕ Building, learning, and evolving...
 <img src="https://raw.githubusercontent.com/vitoralencararaujo/vitoralencararaujo/snake-output/snake.svg" alt="Snake animation" />
 
 
