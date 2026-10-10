@@ -49,7 +49,10 @@
 
 ## ☕ Building, learning, and evolving...
 <div align="center">
-<img src="https://raw.githubusercontent.com/VitorAlencarAraujo/VitorAlencarAraujo/snake-output/snake.svg" alt="GitHub contribution snake" />
+<img
+  src="https://raw.githubusercontent.com/VitorAlencarAraujo/VitorAlencarAraujo/snake-output/snake.svg"
+  alt="GitHub contribution snake"
+/>
 </div>
 
 
