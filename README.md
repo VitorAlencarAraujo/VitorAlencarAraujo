@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Coding,+building,+and+asking+"what+if...+🤔")](https://git.io/typing-svg)
 
 
-## 🛠️ Technologies
+## 🛠️ *Technologies*
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 </div>
 
 
-## 📊 GitHub
+## 📊 *GitHub*
 
 <p align="left">
 <div align="center">
@@ -47,7 +47,7 @@
   />
 </div>
 
-## ☕ Building, learning, and evolving...
+## ☕ *Building, learning, and evolving...*
 <div align="center">
 <img
 src="https://raw.githubusercontent.com/VitorAlencarAraujo/VitorAlencarAraujo/snake-output/snake.svg?v=2"
