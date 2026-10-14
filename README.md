@@ -18,7 +18,6 @@
 <!-- Azul intermediário -->
 <img src="https://img.shields.io/badge/JAVASCRIPT-284A75?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/NODE.JS-2D507D?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/POSTGRESQL-325783?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/MYSQL-375E89?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/HTML5-3C6590?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/CSS3-416B97?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
