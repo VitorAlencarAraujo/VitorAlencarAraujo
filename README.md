@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/CSS3-416B97?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
 
 <!-- Azul-claro -->
-<img src="https://img.shields.io/badge/REACT-4773A0?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+
 <img src="https://img.shields.io/badge/ANGULAR-4D79A8?style=for-the-badge&logo=angular&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/FIGMA-5480B0?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/NOTION-5B88B8?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
